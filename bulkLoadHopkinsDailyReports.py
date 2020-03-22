@@ -7,7 +7,7 @@ import boto3
 
 # Create an S3 client
 s3 = boto3.client('s3')
-bucket_name = 'wirvsvirus-test-bucket'
+bucket_name = 'wirvsvirus-data-lake-landing-zone'
 
 
 def lambda_handler(event, context):
