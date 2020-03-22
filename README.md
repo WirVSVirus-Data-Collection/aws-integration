@@ -1,2 +1,2 @@
 # aws-integration
-Different Data Ingestion scripts for AWS
+Data Ingestion scripts, Lambda Functions for AWS
